@@ -1,0 +1,28 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Leanne Graham",
+            "username": "Bret",
+            "password" : "123"
+        },
+        {
+            "id": 2,
+            "name": "Ervin Howell",
+            "username": "Antonette",
+            "password" : "123"
+        },
+        {
+            "id": 3,
+            "name": "Clementine Bauch",
+            "username": "Samantha",
+            "password" : "123"
+        },
+        {
+            "id": 4,
+            "name": "Patricia Lebsack",
+            "username": "Karianne",
+            "password" : "123"
+        }
+    ]
+}           
